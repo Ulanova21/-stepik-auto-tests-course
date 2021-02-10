@@ -1,4 +1,4 @@
-# -stepik-auto-tests-course
+п»ї# -stepik-auto-tests-course
 homework
 
-первый коммит
+РїРµСЂРІС‹Р№ РєРѕРјРјРёС‚
