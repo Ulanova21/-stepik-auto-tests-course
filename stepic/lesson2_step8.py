@@ -4,6 +4,10 @@ import os
 
 from selenium.webdriver.chrome.options import Options
 
+
+
+
+
 options = Options()
 options.binary_location = "D:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
 
